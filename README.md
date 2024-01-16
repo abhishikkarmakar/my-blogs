@@ -1,28 +1,31 @@
 # my-challenges-website
 Working on a blog-post for begginer web developers
-.
+.\n
+
 @abhihikkarmakar
+
+
 #AIM
 Embark on a guided journey into the fundamentals of web development with our upcoming blog post tailored for beginners. Whether you're taking your first steps in coding or seeking to expand your skills, this user-friendly guide is crafted with you in mind. Experience a unique approach as we emphasize collaboration, encouraging you to join a community of learners, exchange ideas, and actively contribute to a real web development project
-
+\n
 #Deadline(will be live by)
 28 january 2024
 
 
 site will be live at:https://magical-dragon-b6a57c.netlify.app/
-
+\n
 
 #Title: "Building Together: A Beginner's Guide to Full-Stack Web Development"
-
+\n
 Description:
 Embark on an empowering journey into the world of full-stack web development with our latest blog post! Whether you're a complete novice or someone looking to expand your coding skills, this beginner-friendly guide is designed for everyone. What makes this experience truly unique is the emphasis on collaboration – you'll be joining a community of learners, sharing ideas, and contributing to a real full-stack web project.
-
+\n
 #Main CONTENTS
 Introduction:
 Welcome to the world of full-stack web development! If you've ever dreamt of creating dynamic and interactive websites from scratch, you're in the right place. This beginner-friendly blog post will guide you through the exciting process of building a full-stack web application. What makes this journey even more thrilling is that we'll be working together as a community, learning, and collaborating every step of the way.
-
+\n
 Section 1: Getting Started
-
+\n
 Briefly introduce the concept of full-stack development.
 Highlight the importance of collaboration and community learning.
 Suggest using a version control system like Git and hosting the project on platforms like GitHub for easy collaboration.
